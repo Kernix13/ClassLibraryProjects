@@ -227,3 +227,8 @@ namespace UtilityLibraries;
 namespace ClassLibraryProject;
 // I did not know that your namespace does not need to match the project name!
 ```
+
+<!--
+   1. See notes at bottom of m3-w4.md on C# Dev Kit Solutions explorer changes
+   2. create a branch test/use-xunit and refactor to use xUnit framework
+ -->
