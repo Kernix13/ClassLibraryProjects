@@ -47,6 +47,8 @@ A simple utility library that contains a single string-handling method. It also 
    dotnet test
    ```
 
+**NOTE**: Switch to the branch `experiment/xunit-tests` to see implementation using the xUnit framework.
+
 <span aria-hidden="true"><br></span>
 
 ## Project structure
