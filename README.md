@@ -97,7 +97,7 @@ dotnet new classlib -o StringLibrary
 dotnet sln add StringLibrary/StringLibrary.csproj
 ```
 
-### Commands for the console app
+### Notes & Commands for the console app
 
 - Initially, the new console app project doesn't have access to the class library.
 - To allow it to call methods in the class library, create a project reference to the class library project (step #3).
@@ -136,7 +136,7 @@ Using statement in Program.cs:
 using UtilityLibraries;
 ```
 
-### Commands for the test project
+### Notes & Commands for the test project
 
 - Unit tests provide automated software testing
 - MSTest is one of three test frameworks you can choose from. The others are xUnit and nUnit.
