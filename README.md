@@ -73,12 +73,18 @@ ClassLibraryProjects/
 
 <span aria-hidden="true"><br></span>
 
+<span aria-hidden="true"><br></span>
+
 ## Notes for this project
 
 - A class library defines types and methods that are called by an application
   - I can not grasp what that means or its importance!
 - NOTE: A solution serves as a container for one or more projects
 - What is _WinGet configuration file_?
+
+### xUnit branch
+
+I created an alternate test project using xUnit. Switch to the branch `experiment/xunit-tests` to see the code.
 
 ### Commands for the string method library
 
